@@ -1,0 +1,23 @@
+{
+  "name": "crown-jewels",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaykoKoryun/crown-jewels.git"
+  },
+  "author": "HaykoKoryun <haykokoryun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaykoKoryun/crown-jewels/issues"
+  },
+  "homepage": "https://github.com/HaykoKoryun/crown-jewels#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "yargs": "^11.0.0"
+  }
+}
