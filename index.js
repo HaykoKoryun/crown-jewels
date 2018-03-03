@@ -1,1 +1,9 @@
-console.log('good day to you sir!')
+const header = `
+         -̆̆̆+-
+      (͠ ͡ ^̆̆̆̆̆̆O^͡ ͠ )
+       \\~~║~~/
+       @@@@@@@
+       -------
+ ~{---------------}~`;
+
+console.log(header);
