@@ -18,6 +18,7 @@
   "homepage": "https://github.com/HaykoKoryun/crown-jewels#readme",
   "dependencies": {
     "chalk": "^2.3.2",
+    "draftlog": "^1.0.12",
     "yargs": "^11.0.0"
   },
   "preferGlobal": true
