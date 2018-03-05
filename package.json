@@ -19,6 +19,7 @@
   "dependencies": {
     "chalk": "^2.3.2",
     "draftlog": "^1.0.12",
+    "prompt": "^1.0.0",
     "yargs": "^11.0.0"
   },
   "preferGlobal": true
