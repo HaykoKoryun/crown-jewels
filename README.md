@@ -1,6 +1,9 @@
-<div style="background-color:#2d2e28;text-align:center;padding:10px;"><img src='misc/banner.png'/></div>  
+<p align="center">
+  <img src='misc/banner.png'/>
+</p>
 
-## CROWN JEWELS
+<h1 align="center">֎ CROWN JEWELS ֍</h1>  
+
 Store your _crown jewels_ (passwords) securely in a private `git` repository.
 
 
